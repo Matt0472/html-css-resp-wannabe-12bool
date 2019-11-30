@@ -4,7 +4,7 @@
   background: pink;
 }
 .debug .container [class*="col-"] {
-  height: 300px;
+  height: 350px;
   border: 1px solid purple;
 }
 

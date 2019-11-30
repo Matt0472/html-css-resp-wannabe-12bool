@@ -1,0 +1,28 @@
+.title {
+  text-align: center;
+  padding: 40px 0;
+}
+.map-img {
+  width: 200px;
+  display: block;
+  margin: 20px auto;
+}
+h3 {
+  text-align: center;
+}
+.margin_15 {
+  text-align: center;
+  margin: 15px 0;
+  font-size: 17px;
+}
+.margin_20 {
+  text-align: center;
+  margin: 15px 0;
+  font-size: 17px;
+}
+
+.screen-img {
+  width: 325px;
+  display: block;
+  margin: 20px auto;
+}
