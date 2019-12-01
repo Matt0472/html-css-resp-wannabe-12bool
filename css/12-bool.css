@@ -1,7 +1,7 @@
 /* debug */
 .debug .container {
   border: 1px solid red;
-  background: pink;
+  background-color: pink;
 }
 .debug .container [class*="col-"] {
   height: 350px;
