@@ -44,7 +44,10 @@ h2 {
 }
 /* terza linea */
 .why-img {
-  width: 200px;
+  width: 220px;
+  background-color: rgb(66, 139, 202);
+  border-radius: 100%;
+  padding: 30px;
 }
 
 @media screen and (max-width: 480px) {
